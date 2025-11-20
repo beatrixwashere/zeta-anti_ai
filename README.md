@@ -27,5 +27,3 @@ there are some improvements i'd like to make in the future if i ever come back t
 - optimize size of text gaps
 
 the script has worked against chatgpt and gemini in initial trials, but am currently staying away from intensive testing out of personal concerns regarding using ai; however, if anyone encounters an issue with the tool, please let me know. it's also worth noting that image to text tools will drop the obfuscations, but does take more effort.
-
-i originally created this project back in april when i had a teacher who graded work with google gemini, not only to avoid an ai scanning my writing, but rather in hopes to extend it to preventing quick scraping of text by generative ai without the author's consent.
